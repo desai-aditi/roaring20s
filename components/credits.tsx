@@ -38,8 +38,8 @@ export default function Credits({ onNavigate, onBack }: CreditsProps) {
                 <li>https://www.ebsco.com/research-starters/history/suburbs-1920s</li>
                 <li>"The 1920s Business and the Economy: Topics in the News." UXL American Decades, edited by Julie L. Carnagie, et al., vol. 3: 1920-1929, UXL, 2003, pp. 30-43. Gale In Context: U.S. History, link.gale.com/apps/doc/CX3436900131/UHIC?u=ebr22021&sid=bookmark-UHIC&xid=a566f69d. Accessed 20 Nov. 2025.</li>
                 <li>https://www.gothamcenter.org/blog/merchandising-modernism-new-york-city-department-stores-in-the-1920s</li>
-                <li>[Institutional archives & collections]</li>
-                <li>[Documentary materials & analyses]</li>
+                <li>Savvas Book</li>
+                <li>AP Online Book</li>
               </ul>
             </div>
           </div>

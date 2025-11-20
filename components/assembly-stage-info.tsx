@@ -49,9 +49,9 @@ export default function AssemblyStageInfo({
     objective: string
     metaphor: string
     summary: string
-    archivalDescription: string
+    archivalDescription?: string
     videoUrl: string
-    videoCaption: string
+    videoCaption?: string
     // Optional image to show in archival tab
     imageUrl?: string
     imageCaption?: string

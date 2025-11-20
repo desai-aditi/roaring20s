@@ -193,7 +193,7 @@ export default function Home() {
           </div>
 
           <div className="flex-1 overflow-hidden flex gap-6 px-6 py-6">
-            <div className="w-[35%] flex-shrink-0 bg-background/40 border border-border/50 rounded-lg p-6 overflow-y-auto">
+            <div className="w-[35%] shrink-0 bg-background/40 border border-border/50 rounded-lg p-6 overflow-y-auto">
               <div className="animate-in fade-in duration-500">
                 <AssemblyStageInfo stage={stages[currentStage]} />
               </div>
@@ -206,7 +206,7 @@ export default function Home() {
           </div>
 
           {/* Navigation controls - fixed at bottom */}
-          <div className="bg-background border-t border-border px-4 py-4 flex-shrink-0">
+          <div className="bg-background border-t border-border px-4 py-4 shrink-0">
             <Navigation
               onNext={handleNext}
               onPrevious={handlePrevious}

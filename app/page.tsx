@@ -43,10 +43,12 @@ const stages = [
       "The Roaring 20s saw an unprecedented change in the way people lived. Previously, people worked to earn money for food and other necessities. With the extra money that they could afford to spare, people would occasionally treat themselves to a couple of extra purchases. However, with the onset of the Roaring 20s, everything changed. With boosts from the increased economic activity created by World War I and new efficient technologies and methods of production such as the assembly line, the American economy boomed. To say it grew would be an understatement; the economy exploded, reaching heights never thought possible. With this expansion came changes in life. A wave of new products ranging from cars to cereal to washing machines called for Americans to reach for their wallets and begin a new age of American consumerism. Now, rather than saving money to prepare for the next recession, Americans emptied their purses on all that the new economy had to offer. It didn’t stop there; after spending all their cash, Americans, hungry for even more, made purchases on credit. The credit system allowed Americans to take home their goods now and pay later in installments, letting people go into debt to make everyday purchases. Companies and manufacturers, seeing a chance to ride the wave of money being spent, doubled down and created advertisements, in which they sent out promotions in newspapers and the radio that convinced people to buy up all the products they could have dreamed of. The new products that consumers bought changed their lives too; new machines such as washing machines and vacuum cleaners made housework many times easier, while automobiles, the greatest product of the time, allowed people to move around at crazy speeds. The roar of the twenties left a permanent mark on American society that forever changed the way that Americans lived.",
     imageUrl: "https://c8.alamy.com/comp/C00YM2/1920s-full-page-advertisement-in-consumer-magazine-for-the-thor-combined-C00YM2.jpg",
     imageCaption: "Advertisement for the Thor Washing Machine, 1920s",
+    videoUrl: "https://youtu.be/jNQXDxnxaJo?si=a87GQebexBzJ-l3I",
+    youtubeLabel: "Watch a video showing advertisements in the 20s",
     quote: "Sell them their dreams. Sell them what they longed for and hoped for. Sell them this hope and you won't have to worry about selling the goods.",
     source: "- Helen Landon Cass",
     effectBullets: [
-      "#21 The Roaring 20s introduced consumerism and materialism to the U.S. with massive changes to lifestyle and culture.",
+      "Effact #21: The Roaring 20s introduced consumerism and materialism to the U.S. with massive changes to lifestyle and culture.",
     ],
   },
   {
@@ -58,13 +60,13 @@ const stages = [
       "Wheels symbolize the Bull Market. The stock market's upward momentum kept the economy rolling rapidly, propelling speculation and confidence.",
     summary:
       "At the center of the economic and social change of the Roaring 20s was the economic bull market. In economics, the term bull market refers to a booming economy undergoing rapid expansion. The bull market of the 1920s was one of the greatest in history, with stocks jumping to many times their original values. This surge was initiated by high economic output during World War I and new technologies that increased efficiency and encouraged consumer spending. As it got going, the bull market began feeding itself, with rising stock values driving more investment, which drove stock values even higher. In the middle of this boom was the New York Stock Exchange. Known by its acronym, NYSE, the stock exchange served as the largest stock trading market in America. Every day, from the second it opened in the morning to when it closed at night, the NYSE was full of investors running around, looking for the best profits. Seasoned investors frequented the market, using their expertise to make seemingly endless profits. On the other side, many ordinary Americans, after being initially exposed to investing during World War I, when the government issued Liberty Bonds and Victory Bonds, put their savings into the stock market, believing that it was a foolproof, safe way to make miraculous profits. In ten years’ time, everything that the stock market had built up would come crashing down, along with the lives and fortunes of countless Americans, but for now, the bull market and the NYSE represented all of the hopes and dreams of the nation.",
-    archivalDescription:
-      "[Archival Artifact - Stock market data, trading floor photographs, or investment prospectuses]",
     imageUrl: "https://res.cloudinary.com/aenetworks/image/upload/c_fill,ar_2,w_3840,h_1920,g_auto/dpr_auto/f_auto/q_auto:eco/v1/stock-market-crash-gettyimages-542350179?_a=BAVAZGID0",
     imageCaption: "The NYSE trading floor in the 1920s",
+    videoUrl: "https://youtu.be/mjH0igjYnnY?si=0_S8e_MsQVN_bbuy",
+    youtubeLabel: "Watch footage of the 1929 Stock Market Crash", 
     quote:
-      "[Primary Source Quote from investors, financial analysts, or market observers describing market enthusiasm]",
-    source: "- Source/Date",
+      "Stock prices have reached what looks like a permanently high plateau.",
+    source: "- Economist Irving Fisher, right before the crash",
     effectBullets:[
       "Effact #24: Ordinary Americans were building up high debts because of easy credit and started to gamble on the Stock Market, believing it was a safe bet.",
       "Effact #23: During World War One  Liberty Bonds , and later Victory Bonds, introduced the idea of financial securities to many Americans and encouraged the concept of investment by people from all walks of life."
@@ -78,13 +80,17 @@ const stages = [
     metaphor:
       "The Interior represents contrasts between prosperity and hardship. While some enjoyed comfort, rural America remained isolated from the economic gains.",
     summary:
-      "While urban and suburban areas thrived during the 1920s, rural America faced persistent hardship. Agricultural prices collapsed, leaving farmers struggling as the rest of the nation prospered. This stage contrasts the economic experiences across different regions.",
-    archivalDescription:
-      "[Archival Artifact - Photographs comparing urban prosperity with rural conditions, farm data, migration statistics]",
-    videoUrl: "",
-    videoCaption: "",
-    quote: "[Primary Source Quote from rural workers, farmers, or observers commenting on regional inequality]",
-    source: "- Source/Date",
+      "Urban America: Cities experienced the most dramatic benefits of the economic boom. Rapid industrial growth created millions of new jobs, attracting migrants from rural areas and immigrants from abroad. For the first time, a majority of Americans (51%). Urban wages were higher, and the growing consumer economy allowed many workers, especially young women, to live with greater independence. The expanding industrial economy also created opportunities for women to live alone, work in offices or factories, and participate in a rapidly modernizing society. Suburban America: Suburbs grew rapidly as middle-class families sought quieter, cleaner living away from crowded urban centers. The economic boom made cars and streetcars more affordable, enabling workers to commute from suburban homes to city jobs. Suburban communities promised green space, better schools, and an idealized family lifestyle. Developments like Shaker Heights in Ohio had strict zoning and informal racial barriers grew increasingly popular. As a result, suburbs benefited from the boom through rising homeownership, new consumer goods, and infrastructure growth, but mainly for white middle-class Americans. Suburban expansion also contributed to the rise of consumer debt, as families took on mortgages and installment loans to afford houses, cars, and appliances. Rural America: While cities and suburbs prospered, rural America suffered deeply. Farmers faced a prolonged depression beginning right after World War I, as global agricultural production revived and prices fell. Overproduction, heavy debt, and plunging crop prices meant farmers’ incomes dropped to just 30% of a city worker’s income by 1930. One in four farms was lost to foreclosure between 1920 and 1932, and many farmers migrated to cities in search of work. The rural downturn triggered broader economic problems: farmers stopped buying equipment and consumer goods, causing factory slowdowns, and thousands defaulted on loans, leading to over 5,000 bank failures during the decade. Unlike cities and suburbs, rural communities saw the economic boom bypass them entirely and instead endured hardship that foreshadowed the Great Depression.",
+    imageUrl: "https://www2.census.gov/about/history/historical-censuses-surveys/survey-census-history/geography/urban-rural-distribution-map.jpg",
+    imageCaption: "Urban vs. Rural Population Distribution in 1920",
+    videoUrl: "https://www.youtube.com/watch?v=iaKEkvInhIU",
+    youtubeLabel: "Watch New York City in the 1920s (Re-colored)",
+    quote: "It was an age of miracles, it was an age of art, it was an age of excess, and it was an age of satire.",
+    source: "- F.Scott Fitzgerald",
+    effectBullets:[
+      "Effact #3: The role of women changed during the war and many women took on the jobs of men. The influence and expectations of women and their role in society increased.",
+      "Effact #9: The massive influx of people in the cities led to the squalid conditions and problems of  urbanization in America ."
+    ]
   },
   {
     id: 5,
@@ -95,13 +101,17 @@ const stages = [
       "Department stores are like the body panels of the Model T because they create the polished, eye-catching exterior of the 1920s economy. Their grand buildings and flashy window displays were the most visible expression of the consumer boom, shaping how Americans saw the era’s prosperity.",
     summary:
       "Department stores expanded rapidly in the 1920s as America's middle and working classes grew, giving more families the disposable income needed for regular shopping. As many Americans moved into newly developing suburbs, department stores followed, opening multiple locations to meet the needs of these high-density communities. This shift helped transform stores like Macy's, Wanamaker's, Filene's, Sears, Gimbel's, Marshall Field's, and Bamberger's into powerful retail chains. Their expansion popularized modern shopping culture, and in some cases, these companies even allowed employees to buy stock, tying workers into the increasingly popular stock market of the 1920s.The 1920s also witnessed the rise of window shopping, a popular pastime that department stores actively encouraged through elaborate, eye-catching displays meant to entice customers inside. Macy’s became especially famous for its innovative marketing, for example, the first Macy’s Thanksgiving Day Parade in 1924. Wanamaker’s, however, drew crowds with its grand design and high-quality goods. Filene’s appealed to more budget-conscious shoppers, showing how department stores could target different segments of the growing consumer base. Together, these stores reshaped America’s consumer culture.",
-    archivalDescription:
-      "[Archival Artifact - Department store photographs, fashion catalogs, or consumer goods advertisements]",
     videoUrl: "https://youtu.be/Y0nVwUpBUQg?si=b5xAp8nXq65cCzYQ",
     youtubeLabel: "Watch a 1920s department store advertisement",
+    imageUrl: "https://clickamericana.com/wp-content/uploads/J-C-Harding-Co-Inc.-electrical-goods-DC-1920s.jpg",
+    imageCaption: "Advertisement for J.C. Harding Co. electrical goods, 1920s",
     quote:
       "Even to the person least interested in art, it must have become apparent that something has hit the shop windows. A wave of brilliant color is spreading, and one sees the most incomprehensible designs in silk scarves, dress goods, and cretonnes. They look like the covers of Vanity Fair or the New Yorker, frivolous, gay…",
     source: "Edwin Avery Park, in his 1927 book, New Backgrounds for a New Age",
+    effectBullets:[
+      "Effact #21: Introduced consumerism and materialism  to the U.S. with massive changes to lifestyle and culture.",
+      "Effact #22: Dawn of the large-scale use of electricity, labor saving appliances such as refrigerators, washing machines and vacuum cleaners, automobiles and telephones."
+    ]
   },
   {
     id: 6,
@@ -112,18 +122,21 @@ const stages = [
       "The Finished Car represents Ford's assembly line triumph. The automobile industry was the complete, integrated force that transformed America's economy.",
     summary:
       "Before the 1920s, automobiles were widely considered to be hand-built luxury items that only the wealthy could afford. However, Henry Ford, an inventor and businessman from Michigan, permanently changed that with a world-renowned development: a nearly perfect moving assembly line. In essence, rather than have a small group of mechanics and artisans move around a single stationary product to perform many tasks, the product itself moved past echelons of workers who each applied their own individual step repeatedly on every car. This method costs from half a day to a measly hour and a half, making them cheaper for everyday people. Combined with Ford's famous $5-a-day wage, which doubled the average industrial salary and intentionally gave workers the ability to buy the very cars they produced, automobiles were suddenly much easier to access. As a result of this process, over 26 million automobiles were distributed throughout the nation, laying the stones for another industrial spike. An important concept to understand is the Economic Multiplier Effect, where an initial increase in economic activity in one sector leads to a larger total increase in overall economic activity because it stimulates growth in other connected industries. While it is fairly common, the automobile industry's revolution is considered one of the largest showcases of this phenomenon. Demand for the automobile stimulated many other major industries in the US. Producing millions of cars required astronomical amounts of industrial stock and infrastructure. Steel for engine blocks and body panels, petroleum for fuel, and rubber for tires are just a few of these industries that were expanded drastically due to the vehicular surge. The Federal Highway Act was beginning to create an intercontinental web of transportation routes, while new jobs opened up not only in large operations such as transportation, mining, and engineering, but also in rising local businesses such as motels, gas stations, and restaurants.",
-    archivalDescription:
-      "[Archival Artifact - Assembly line photographs, Ford factory images, or automotive advertisements]",
     videoUrl: "https://www.youtube.com/watch?v=cTZ3rJHHSik",
     youtubeLabel: "Watch the Ford assembly line in action",
-    quote: "[Primary Source Quote from Henry Ford, workers, or observers about the automobile revolution]",
-    source: "- Source/Date",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkDYrB3IXCA6v7h4iQ5kvzJAQQpLkGSOeItQ&s",
+    imageCaption: "Ford Model T",
+    quote: "I will build a car for the great multitude. It will be large enough for the family, but small enough for the individual to run and care for.",
+    source: "- Henry Ford",
+    effectBullets:[
+      'Effact #2: Production and efficiency in industries and factories had increased. Technology had advanced and the nation had entered the age of steel and electricity.'
+    ]
   },
 ]
 
 type Screen = "intro" | "assembly" | "conclusion" | "questions" | "credits"
 
-const introAudioUrl = "https://example.com/intro-audio.mp3"
+const introAudioUrl = "/intro.mp3"
 const conclusionAudioUrl = "https://example.com/conclusion-audio.mp3"
 
 export default function Home() {

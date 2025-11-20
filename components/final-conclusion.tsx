@@ -20,20 +20,6 @@ export default function FinalConclusion({ onNavigate, onBack, audioUrl }: FinalC
             <p className="text-lg text-muted-foreground font-mono">Understanding 1920s Economic Life</p>
           </div>
 
-          {audioUrl && (
-            <div className="flex justify-center">
-              <audio
-                controls
-                className="w-full max-w-sm"
-                onPlay={() => setIsPlaying(true)}
-                onPause={() => setIsPlaying(false)}
-              >
-                <source src={audioUrl} type="audio/mpeg" />
-                Your browser does not support the audio element.
-              </audio>
-            </div>
-          )}
-
           {/* Main content grid */}
           <div className="grid md:grid-cols-2 gap-6">
             <div className="bg-card/50 backdrop-blur border border-border/50 rounded-lg p-6 space-y-4">
